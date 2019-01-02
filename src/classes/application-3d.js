@@ -51,7 +51,6 @@ export default class Application3d {
         this.scene.add(key);
         this.scene.add(fill);
         this.scene.add(ambient);
-
     }
     
     onResize () {
